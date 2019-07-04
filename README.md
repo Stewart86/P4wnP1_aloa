@@ -196,7 +196,7 @@ use)
 2) The USB host runs an application, which is able to receive the keystrokes and has the current keyboard input focus 
 (f.e. a text editor)
 3) You are remotely connected to P4wnP1 via SSH (the best way is WiFi), preferably the SSH connection is running from
-a different host, then the the one which has P4wnP1 A.L.O.A. attached over USB
+a different host then the one which has P4wnP1 A.L.O.A. attached over USB
 
 In order to run the CLI client from the SSH session, issue the following command:
 ```
